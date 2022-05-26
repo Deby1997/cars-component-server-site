@@ -2,4 +2,7 @@
 # Live Link:
 
 ## Project Detail:
+(mathods Used)
 * get
+* post
+* delete

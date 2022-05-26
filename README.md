@@ -6,4 +6,4 @@
 * get
 * post
 * delete
-* update
+
